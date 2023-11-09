@@ -1,2 +1,2 @@
 # testingrepo_celestial
-for testing
+for testing scm widgets in UAT
